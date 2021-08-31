@@ -1,4 +1,4 @@
-# Simple Blockchain for learning C# purpose
+# Simple Blockchain implementation for learning C# purpose
 
 Write a the rest of the project to make the following program running
 
